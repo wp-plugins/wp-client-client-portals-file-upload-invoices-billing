@@ -4,7 +4,7 @@ Donate link: http://wp-client.com
 Tags: client portal, file download, file upload, invoices, estimates, billing
 Requires at least: 3.0.1
 Tested up to: 3.5.1
-Stable Tag: 0.0.5
+Stable Tag: 0.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,10 @@ Please see this page for FAQs - http://wp-client.com/faqs/
 == Changelog ==
 = Version 1.0.5 =
 * Stable LITE version
+
+= Version 1.0.6 =
+* fixed folder path;
+
 
 == Upgrade Notice ==
 

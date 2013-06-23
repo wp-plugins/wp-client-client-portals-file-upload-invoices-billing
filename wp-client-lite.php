@@ -1,16 +1,16 @@
 <?php
 /*
-Plugin Name: WP-Client :: Client Portals, File Upload, Invoices & Billing
+Plugin Name: WP-Client Lite :: Client Portals, File Upload, Invoices & Billing
 Plugin URI: http://www.WP-Client.com
 Description:  WP-Client WordPress Client Portal is a Client Management Plugin that gives you the ultimate in flexibility.  Integrate powerful client management and relations features into your current site.<a href="http://WP-Client.com">Visit Plugin Website</a>
 Author: WP-Client.com
-Version: 0.0.5
+Version: 0.0.6
 Author URI: http://www.WP-Client.com
 */
 
 
 //current plugin version
-define( 'WPC_CLIENT_VER', '0.0.5' );
+define( 'WPC_CLIENT_VER', '0.0.6' );
 define('WP_PASSWORD_GENERATOR_VERSION_WPCLIENT', '2.2');
 
 // The text domain for strings localization
@@ -100,11 +100,11 @@ if(!class_exists("wpc_client")) {
         function __construct() {
             //setup proper directories
             if ( is_multisite() && defined( 'WPMU_PLUGIN_URL' ) && defined( 'WPMU_PLUGIN_DIR' ) && file_exists( WPMU_PLUGIN_DIR . '/wp-client-lite.php' ) ) {
-                $this->plugin_dir = WPMU_PLUGIN_DIR . '/WP-Client-Lite/';
-                $this->plugin_url = WPMU_PLUGIN_URL . '/WP-Client-Lite/';
-            } else if ( defined( 'WP_PLUGIN_URL' ) && defined( 'WP_PLUGIN_DIR' ) && file_exists( WP_PLUGIN_DIR . '/WP-Client-Lite/wp-client-lite.php' ) ) {
-                $this->plugin_dir = WP_PLUGIN_DIR . '/WP-Client-Lite/';
-                $this->plugin_url = WP_PLUGIN_URL . '/WP-Client-Lite/';
+                $this->plugin_dir = WPMU_PLUGIN_DIR . '/wp-client-client-portals-file-upload-invoices-billing/';
+                $this->plugin_url = WPMU_PLUGIN_URL . '/wp-client-client-portals-file-upload-invoices-billing/';
+            } else if ( defined( 'WP_PLUGIN_URL' ) && defined( 'WP_PLUGIN_DIR' ) && file_exists( WP_PLUGIN_DIR . '/wp-client-client-portals-file-upload-invoices-billing/wp-client-lite.php' ) ) {
+                $this->plugin_dir = WP_PLUGIN_DIR . '/wp-client-client-portals-file-upload-invoices-billing/';
+                $this->plugin_url = WP_PLUGIN_URL . '/wp-client-client-portals-file-upload-invoices-billing/';
             } else if ( defined('WP_PLUGIN_URL' ) && defined( 'WP_PLUGIN_DIR' ) && file_exists( WP_PLUGIN_DIR . '/wp-client-lite.php' ) ) {
                 $this->plugin_dir = WP_PLUGIN_DIR;
                 $this->plugin_url = WP_PLUGIN_URL;
@@ -214,8 +214,8 @@ if(!class_exists("wpc_client")) {
             add_filter( 'page_template', array( &$this, 'get_page_template' ) ) ;
 
             //add uninstall link
-            if ( !has_filter( 'plugin_action_links_WP-Client-Lite/wp-client-lite.php', 'wpc_client_more_action_links' ) ) {
-                add_filter( 'plugin_action_links_WP-Client-Lite/wp-client-lite.php', array( &$this, 'add_action_links' ) );
+            if ( !has_filter( 'plugin_action_links_wp-client-client-portals-file-upload-invoices-billing/wp-client-lite.php', 'wpc_client_more_action_links' ) ) {
+                add_filter( 'plugin_action_links_wp-client-client-portals-file-upload-invoices-billing/wp-client-lite.php', array( &$this, 'add_action_links' ) );
             }
 
             add_action( 'plugins_loaded', array( &$this, 'load_textdomain' ) );
@@ -499,12 +499,6 @@ if(!class_exists("wpc_client")) {
                             </span>
                         </p>
                     </div>
-                    <script type="text/javascript">
-
-                        jQuery( document ).ready( function() {
-                            jQuery( document ).tooltip();
-                        });
-                    </script>
                     <style>
                         .ui-tooltip {
                         padding: 8px;
@@ -802,11 +796,11 @@ if(!class_exists("wpc_client")) {
                 array(
                     'title'     => __( 'Portal Page', WPC_CLIENT_TEXT_DOMAIN ),
                     'name'      => 'Portal Page',
-                    'desc'      => __( '', WPC_CLIENT_TEXT_DOMAIN ),
+                    'desc'      => __( 'Page content: [wpc_client_portal_page]', WPC_CLIENT_TEXT_DOMAIN ),
                     'id'        => 'portal_page_id',
                     'old_id'    => '',
                     'shortcode' => true,
-                    'content'   => '',
+                    'content'   => '[wpc_client_portal_page]',
                 ),
                 array(
                     'title'     => __( 'Error', WPC_CLIENT_TEXT_DOMAIN ),
@@ -1377,7 +1371,7 @@ EOD;
 
         function wp_password_generator_load() {
             if(isset($_GET['page']) and $_REQUEST['page'] == 'add_client') {
-                wp_enqueue_script('wp-password-generator', WP_PLUGIN_URL . '/WP-Client-Lite/wp-password-generator.js', array('jquery'), '2.1', true);
+                wp_enqueue_script('wp-password-generator', WP_PLUGIN_URL . '/wp-client-client-portals-file-upload-invoices-billing/wp-password-generator.js', array('jquery'), '2.1', true);
             }
 
             return true;
@@ -1494,7 +1488,7 @@ EOD;
                 if ( is_array( $plugins ) && 0 < count( $plugins ) ) {
                     $new_plugins = array();
                     foreach( $plugins as $plugin )
-                        if ( 'WP-Client-Lite/wp-client-lite.php' != $plugin )
+                        if ( 'wp-client-client-portals-file-upload-invoices-billing/wp-client-lite.php' != $plugin )
                             $new_plugins[] = $plugin;
                 }
                 update_option( 'active_plugins', $new_plugins );
@@ -3035,7 +3029,7 @@ EOD;
          * Load translate textdomain file.
          */
         function load_textdomain() {
-            load_plugin_textdomain( WPC_CLIENT_TEXT_DOMAIN, false, dirname( 'WP-Client-Lite/wp-client-lite.php' ) . '/languages/' );
+            load_plugin_textdomain( WPC_CLIENT_TEXT_DOMAIN, false, dirname( 'wp-client-client-portals-file-upload-invoices-billing/wp-client-lite.php' ) . '/languages/' );
         }
 
 
@@ -4629,12 +4623,6 @@ EOD;
     function wp_client_css_js() {
         global $wpc_client, $parent_file, $wp_query;
 
-        //tooltip just for Install pages links (admin messages box)
-        $notices = get_option( 'wpc_client_flags' );
-        if ( !isset( $notices['skip_install_pages'] ) && '' == wpc_client_get_slug( 'hub_page_id' ) && !isset( $_GET['install_pages'] ) && !isset( $_GET['skip_install_pages'] ) ) {
-            wp_enqueue_script( 'jquery-ui-tooltip' );
-        }
-
         if ( 'hubpage' == get_post_type() || 'clientspage' == get_post_type() ) {
             wp_register_style( 'wp-client-style', $wpc_client->plugin_url . 'css/style.css' );
             wp_enqueue_style( 'wp-client-style' );
@@ -4706,7 +4694,6 @@ EOD;
                 }
             }
         }
-
 
     }
 
