@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP-Client Lite :: Client Portals, Invoicing & Billing
+Plugin Name: WP-Client Lite :: Client Portals, Secure File Exchange, Messaging & Invoicing
 Plugin URI: http://www.WP-Client.com
 Description:  WP-Client WordPress Client Portal is a Client Management Plugin that gives you the ultimate in flexibility.  Integrate powerful client management and relations features into your current site.<a href="http://WP-Client.com">Visit Plugin Website</a>
 Author: WP-Client.com
