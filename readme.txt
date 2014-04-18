@@ -12,18 +12,18 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 
 == Description ==
 
-<h3 style="margin-bottom:10px;"><a href="http://wp-client.com">WP-Client PRO :: WordPress Web Portal Plugin</a></h3>
+<h3 style="margin-bottom:10px;"><a href="https://wp-client.com">WP-Client PRO :: WordPress Web Portal Plugin</a></h3>
 <p>Visit Website :: <a href="http://wp-client.com">WP-Client.com</a> is the home of WP-Client Pro, the <strong>#1 WordPress plugin for Business</strong>. PRO is a premium, fully featured, fully supported Web Portal plugin for WordPress that is under active development & expansion.</p>
 <h3 style="margin-bottom:10px;">What is WP-Client Lite?</h3>
 <p>WP-Client Lite is designed to give just an introduction to the very basic components of a Client Portal, but there are many features in the Pro version that are not included in the Lite version.</p>
 <p>WP-Client Lite is not meant to be a fully featured Client Portal, but rather a glimpse into what is included and possible in the WP-Client Pro version.</p>
-<p>Our Dev Team is focused on developing and supporting PRO, and you are encouraged to upgrade RISK FREE if you really want to evaluate the plugin.</p>
+<p>Our Dev Team is focused on developing and supporting PRO, and you are encouraged to upgrade <strong>RISK FREE</strong> if you really want to evaluate the plugin :: <a href="https://wp-client.com/our-100-percent-money-back-guarantee/">Click HERE to see details of our 100% Money Back Guarantee</a></p>
 <p>WP-Client Pro is in constant development and is fully supported. New features are added weekly, and your suggestions are welcome.</p>
 <p>See a full list of features :: <a href="http://WP-Client.com">WEBSITE &gt;&gt; WP-Client.com</a></p>
 <h3 style="margin-bottom:10px;">WP-Client PRO :: Demo Video</h3>
 [youtube https://www.youtube.com/watch?v=lvuLruoQr38]
 <p>One plugin configures multiple areas of your WordPress installation and allows the site Administrator to easily create new Client Areas, Client Management Portals, Client Estimates &amp; Invoices, Client File Upload Areas, or Private Staff Pages on the site by entering just a few data fields and clicking submit. Additionally, clients can upload/download secure files.</p>
-<p>On each domain the plugin is installed, you may have unlimited Clients and Client Portals</p>
+<p>On each domain the plugin is installed, you may have <strong>UNLIMITED Clients and Client Portals</strong></p>
 <h3 style="margin-bottom:10px;">WP-Client PRO :: Feature Demo Videos</h3>
 [youtube https://www.youtube.com/watch?v=OhVnP58TohY]
 [youtube https://www.youtube.com/watch?v=vrdNREMiI1M]
@@ -34,7 +34,7 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 [youtube https://www.youtube.com/watch?v=5yahbLSzKcM]
 [youtube https://www.youtube.com/watch?v=y-m7LRoZqTs]
 
-For complete set of videos & screenshots, <a href="http://wp-client.com">Visit WP-Client.com</a>
+For complete set of videos & screenshots, <a href="https://wp-client.com">Visit WP-Client.com</a>
 
 == Installation ==
 
@@ -64,7 +64,7 @@ You can use WP-Client to create Client Portals, Membership Sites, File Sharing P
 
 <h3 style="margin-bottom:10px;">Top Five Reasons to own WP-Client PRO</h3>
 <p> </p>
-<h4 style="margin-bottom:10px;">Reason #1: Extreme Flexibility, Solid Security, and Raw, Unadulterated POWER</h4>
+<h4 style="margin-bottom:10px;">Reason #1: Extreme Flexibility, Solid Security, & Raw, Unadulterated POWER</h4>
 
 No matter what your organization or business requires, WP-Client has the power and flexibility to deliver a wide range of web portal functionalities to serve your needs.
 
@@ -84,15 +84,15 @@ We have an experienced team of helpful and courteous support staff who's number 
 <h4 style="margin-bottom:10px;">Reason #4: Authentic Testimonials from Real Customers. No B.S.</h4>
 
 We are proud to say that our customers are excited to tell us how happy they are. This makes us happy, but we are still always pushing to do things better all the time
+<ul>
+<li>"Remarkable. All is working. I'm amazed at how fast you guys are in responding and the thoroughness of the help instructions. Great job. And thanks a million for making such an awesome plugin. This was exactly what I was looking for and you've even added invoicing to it." Jeffrey</ul>
 
-*"Remarkable. All is working. I'm amazed at how fast you guys are in responding and the thoroughness of the help instructions. Great job. And thanks a million for making such an awesome plugin. This was exactly what I was looking for and you've even added invoicing to it." Jeffrey
+<li>"I've been looking for this exact functionality for so long, finally came across your plugin, and what a pleasant surprise! Really love the whole concept behind the plugin, and how it makes everything so flexible. Use of shortcodes is clever and makes integration a snap." Sherri</ul>
 
-*"I've been looking for this exact functionality for so long, finally came across your plugin, and what a pleasant surprise! Really love the whole concept behind the plugin, and how it makes everything so flexible. Use of shortcodes is clever and makes integration a snap." Sherri
+<li>"You guys have the most well documented and best executed plug-in that I have ever had the privilege to use." Howard</ul>
 
-*"You guys have the most well documented and best executed plug-in that I have ever had the privilege to use." Howard
-
-*"I bought 2 copies of this [plugin] and I'm very impressed! I'm a professional photographer and visual designer, and I use this plug in for my studio and for clients than need a professional solution for show the pictures to clients. Thank you WP-Client! I'm really really happy! Great product!" Manu
-
+<li>"I bought 2 copies of this [plugin] and I'm very impressed! I'm a professional photographer and visual designer, and I use this plug in for my studio and for clients than need a professional solution for show the pictures to clients. Thank you WP-Client! I'm really really happy! Great product!" Manu</ul>
+</ul>
 <h4 style="margin-bottom:10px;">Reason #5: No Risk 100% Money Back Guarantee</h4>
 
 We consider our 100% Money Back Guarantee a valuable tool for gathering real world feedback from real world users. It doesn't happen often, but if WP-Client doesn't fit your needs, then you have nothing to worry about. See Details
