@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: wp-client
 Donate link: http://wp-client.com
-Tags: client portal, file download, file upload, invoices, estimates, billing
+Tags: client portal, file download, file upload, invoices, estimates, billing.|
 Requires at least: 3.0.1
 Tested up to: 3.6
 Stable Tag: 0.0.6
