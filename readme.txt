@@ -133,14 +133,14 @@ For complete set of videos & screenshots, <a href="https://wp-client.com">Visit 
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-1. Upload the newest version using 'Add new' Plugin, Upload via zip, Upload, and then Activate - OR - Unzip the files on your local machine and upload via FTP to the /plugins/ directory.. then activate from the plugins list.
-
+This section describes how to install the LITE version of the plugin and get it working.
+<ul>
+<li>Upload the newest version using 'Add new' Plugin, Upload via zip, Upload, and then Activate - OR - Unzip the files on your local machine and upload via FTP to the /plugins/ directory.. then activate from the plugins list.</li>
+</ul>
 <h3 style="margin-bottom:10px;">WP-Client PRO :: Installing & Activating WP-Client PRO</h3>
-
-When you upgrade to PRO, you will need first to completely delete the WP-Client LITE files from your installation. Your data, however, as far as clients, files, etc... will all be safely stored in the database & proprietary upload directory.
-
+<ul>
+<li>When you upgrade to PRO, you will need first to completely delete the WP-Client LITE files from your installation. Your data, however, as far as clients, files, etc... will all be safely stored in the database & proprietary upload directory.</li>
+</ul>
 [youtube https://www.youtube.com/watch?v=NWBDm0VdFqo]
 
 == Frequently Asked Questions ==
