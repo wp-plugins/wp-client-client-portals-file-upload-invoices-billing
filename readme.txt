@@ -51,6 +51,84 @@ For complete set of videos & screenshots, <a href="https://wp-client.com">Visit 
 <li><strong>Login Logs</strong> (<span style="color: #993300; font-size: 8pt;">Included in all PRO License Levels)</span> - When users log into your site, the details are retained in the the database, and a report is generated so you can see a complete record of who has logged into the site.</li>
 <li><strong>Private Post Types</strong> <span style="color: #993300; font-size: 8pt;">(Included in all PRO License Levels)</span> - Allows you to make any page, post or custom post type part of your Portal. You can easily assign permissions, restrict public viewing, and include links to these resources in your Client's HUBs and Portal Pages.</li>
 </ul>
+<h3 style="margin-bottom:10px;">WP-Client PRO :: Real Unsolicited Testimonials</h3>
+<p></p>
+<p>Hi WP-Client! </p>
+<p>I would like to tell you about how your plugin has transformed my Thai language school. </p>
+<p>My wife and I have developed a complete solution to help learners of Thai language. We provide learners and teachers the materials they need to either learn or teach Thai. </p>
+<p>We wanted our students and teachers to access and download stages of learning materials as they progress through their learning experience. WP-Client has given us the ability to provide a personal learning space where our clients can practice new language skills online and access everything they need to learn. WP-Client has given us the flexibly we needed to provide this solution in a very professional and simple way.</p>
+<p>We have only been using WP-Client for about 2 months but we already have more than 150 clients using our online learning space. The plugin has saved us time, money and allows us to get a new student or teacher setup within minutes so they have instant access to their learning materials. </p>
+<p>The system allows selected users access to our valuable materials where we can monitor usage with successful login emails and we know where clients login with their IP address.</p>
+<p>WP-Client has transformed the way we work and is helping hundreds of people learn Thai language.</p>
+<p>Thank you WP-Client!</p>
+<p>Regards,</p>
+<p>Tom</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Remarkable. All is working. I'm amazed at how fast you guys are in responding and the thoroughness of the help instructions. Great job. And thanks a million for making such an awesome plugin. This was exactly what I was looking for and you've even added invoicing to it.</p>
+<p>Jeffrey</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>I'm a freelance web designer and developer. WP-Client allows me to communicate in a secure, centralized portal with my clients so I can offer the highest quality of service to them and stay organized. Presenting design drafts or logo concepts to my clients within the WP-Client Hub Pages is a great way of customizing their user experience and delivering a product in a convenient way.</p>
+<p>Many of my clients have commented on the level of professionalism that comes with being provided with a unique, custom portal for their project. It's a great product!</p>
+<p>Will</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Thank you for the most incredible plugin known to mankind!</p>
+<p>Todd</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>I've been looking for this exact functionality for so long, finally came across your plugin, and what a pleasant surprise! Really love the whole concept behind the plugin, and how it makes everything so flexible. Use of shortcodes is clever and makes integration a snap. </p>
+<p>Kudos, and keep up the great work!</p>
+<p>Sherri</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>You guys have the most well documented and best executed plug-in that I have ever had the privilege to use.</p>
+<p>Howard</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>I would highly recommend WP-Client. I love the plug-in and I only had great experience with WP-Client. Their support team is fantastic and I mainly worked with Mike who from the beginning helped me in any way he could. He is very professional, very patient and he explains everything in detail. It is really great working with him; he is awesome. I am so happy that I found WP-Client and I thank you for such great customer service and a great product!</p>
+<p>I am a very happy and satisfied customer and I will recommend you at anytime. Thank you very much!</p>
+<p>Ilka</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>I bought 2 copies of this [plugin] and I'm very impressed! I'm a professional photographer and visual designer, and I use this plug in for my studio and for clients than need a professional solution for show the pictures to clients. Thank you WP-Client! I'm really really happy! Great product!</p>
+<p>Manu</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>We're using the plugin to post invoices &amp; project results for our clients, and they have almost all commented on how they like being able to securely access this info at anytime. It makes us look more professional, and it was really pretty easy to modify the colors and logos to match our website. Good show mates.</p>
+<p>Damian</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>By the way this is the best plugin I have ever see. Good job on it. You and your company are brilliant and deserve every penny that this thing costs. Thanks again.</p>
+<p>Christopher</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Thank you for this amazing plugin!! Well worth the $160 you're charging for the lifetime license.</p>
+<p>Mark D.</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>I want to  congratulate you for your great effort to develop this fantastic versatile plugin.</p>
+<p>Toni</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Thanks for your wonderful plugin. It's really a good one - I bought the Lifetime License and I love it. </p>
+<p>Richard</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Great software by the way. Absolutely wonderful!</p>
+<p>Jeff</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>I'm really impressed by this plugin!</p>
+<p>Michael</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>So far this looks to be a great plug-in! I'm very impressed and I've already recommended it to two of my colleagues.</p>
+<p>Charles</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>I installed your plug in yesterday and am very impressed!</p>
+<p>Jim</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Your product is great and I would recommend to anyone!</p>
+<p>Brent</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Thanks once again for your replies and efforts in getting this fantastic plugin into a great place.</p>
+<p>Alan</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Thank you very much for quick response! Think if all company support could be like yours!</p>
+<p>Christian</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Thanks for the fast work. Great product and great support team. Thanks again.</p>
+<p>Bo</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>Thank you so much for your excellent support!</p>
+<p>Melissa</p>
 
 == Installation ==
 
