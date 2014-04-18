@@ -20,7 +20,8 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 <p>Our Dev Team is focused on developing and supporting PRO, and you are encouraged to upgrade RISK FREE if you really want to evaluate the plugin.</p>
 <p>WP-Client Pro is in constant development and is fully supported. New features are added weekly, and your suggestions are welcome.</p>
 <p>See a full list of features :: <a href="http://WP-Client.com">WEBSITE &gt;&gt; WP-Client.com</a></p>
-<h3 style="margin-bottom:10px;">Brief Description</h3>
+<h3 style="margin-bottom:10px;">WP-Client PRO :: Demo Video</h3>
+<iframe src="//fast.wistia.net/embed/iframe/i99gk034mh?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script>
 <p>One plugin configures multiple areas of your WordPress installation and allows the site Administrator to easily create new Client Areas, Client Management Portals, Client Estimates &amp; Invoices, Client File Upload Areas, or Private Staff Pages on the site by entering just a few data fields and clicking submit. Additionally, clients can upload/download secure files.</p>
 <p>On each domain the plugin is installed, you may have unlimited Clients and Client Portals</p>
 
@@ -43,7 +44,7 @@ Please understand that WP-Client is a very flexible & powerful tool. If you are 
 One result of this extreme flexibility, is that it becomes difficult to provide "step 1-2-3" guides for the plugin, as these steps won't necessarily apply to all of our customers' needs. For every "case" we provide as an example, we will end up leaving out dozens of other scenarios that WP-Client would be perfect for. We hope that the development path we are taking will make the plugin even easier to use going forward.
 
 <h3 style="margin-bottom:10px;">Why WP-Client PRO?</h3>
-
+<p> </p>
 <h4 style="margin-bottom:10px;">What do you call them?</h4>
 
 Clients? Members? Or do you needs involve Customers, Employees, Collaborators, Students, Patients, Agents, Reps, Vendors, Affiliates, etc...?
@@ -51,7 +52,7 @@ Clients? Members? Or do you needs involve Customers, Employees, Collaborators, S
 You can use WP-Client to create Client Portals, Membership Sites, File Sharing Portals, Employee Portals, Student Portals, Patient Portals, Customer Areas, Agent Portals, Vendor Info Portals, Affiliate Portals and much, much more.
 
 <h3 style="margin-bottom:10px;">Top Five Reasons to own WP-Client PRO</h3>
-
+<p> </p>
 <h4 style="margin-bottom:10px;">Reason #1: Extreme Flexibility, Solid Security, and Raw, Unadulterated POWER</h4>
 
 No matter what your organization or business requires, WP-Client has the power and flexibility to deliver a wide range of web portal functionalities to serve your needs.
