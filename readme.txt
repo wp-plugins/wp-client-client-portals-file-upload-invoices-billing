@@ -21,7 +21,7 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 <p>WP-Client Pro is in constant development and is fully supported. New features are added weekly, and your suggestions are welcome.</p>
 <p>See a full list of features :: <a href="http://WP-Client.com">WEBSITE &gt;&gt; WP-Client.com</a></p>
 <h3 style="margin-bottom:10px;">WP-Client PRO :: Demo Video</h3>
-<iframe src="//fast.wistia.net/embed/iframe/i99gk034mh?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script>
+[youtube https://www.youtube.com/watch?v=lvuLruoQr38]
 <p>One plugin configures multiple areas of your WordPress installation and allows the site Administrator to easily create new Client Areas, Client Management Portals, Client Estimates &amp; Invoices, Client File Upload Areas, or Private Staff Pages on the site by entering just a few data fields and clicking submit. Additionally, clients can upload/download secure files.</p>
 <p>On each domain the plugin is installed, you may have unlimited Clients and Client Portals</p>
 
@@ -74,13 +74,13 @@ We have an experienced team of helpful and courteous support staff who's number 
 
 We are proud to say that our customers are excited to tell us how happy they are. This makes us happy, but we are still always pushing to do things better all the time
 
-"Remarkable. All is working. I'm amazed at how fast you guys are in responding and the thoroughness of the help instructions. Great job. And thanks a million for making such an awesome plugin. This was exactly what I was looking for and you've even added invoicing to it." Jeffrey
+*"Remarkable. All is working. I'm amazed at how fast you guys are in responding and the thoroughness of the help instructions. Great job. And thanks a million for making such an awesome plugin. This was exactly what I was looking for and you've even added invoicing to it." Jeffrey
 
-"I've been looking for this exact functionality for so long, finally came across your plugin, and what a pleasant surprise! Really love the whole concept behind the plugin, and how it makes everything so flexible. Use of shortcodes is clever and makes integration a snap." Sherri
+*"I've been looking for this exact functionality for so long, finally came across your plugin, and what a pleasant surprise! Really love the whole concept behind the plugin, and how it makes everything so flexible. Use of shortcodes is clever and makes integration a snap." Sherri
 
-"You guys have the most well documented and best executed plug-in that I have ever had the privilege to use." Howard
+*"You guys have the most well documented and best executed plug-in that I have ever had the privilege to use." Howard
 
-"I bought 2 copies of this [plugin] and I'm very impressed! I'm a professional photographer and visual designer, and I use this plug in for my studio and for clients than need a professional solution for show the pictures to clients. Thank you WP-Client! I'm really really happy! Great product!" Manu
+*"I bought 2 copies of this [plugin] and I'm very impressed! I'm a professional photographer and visual designer, and I use this plug in for my studio and for clients than need a professional solution for show the pictures to clients. Thank you WP-Client! I'm really really happy! Great product!" Manu
 
 <h4 style="margin-bottom:10px;">Reason #5: No Risk 100% Money Back Guarantee</h4>
 
