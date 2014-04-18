@@ -17,13 +17,14 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 <h3 style="margin-bottom:10px;">What is WP-Client Lite?</h3>
 <p>WP-Client Lite is designed to give just an introduction to the very basic components of a Client Portal, but there are many features in the Pro version that are not included in the Lite version.</p>
 <p>WP-Client Lite is not meant to be a fully featured Client Portal, but rather a glimpse into what is included and possible in the WP-Client Pro version.</p>
+<h3 style="margin-bottom:10px;">GO PRO :: RISK FREE :: 100% Guarantee</h3>
 <p>Our Dev Team is focused on developing and supporting PRO, and you are encouraged to upgrade <strong>RISK FREE</strong> if you really want to evaluate the plugin :: <a href="https://wp-client.com/our-100-percent-money-back-guarantee/">Click HERE to see details of our 100% Money Back Guarantee</a></p>
 <p>WP-Client Pro is in constant development and is fully supported. New features are added weekly, and your suggestions are welcome.</p>
-<p>See a full list of features :: <a href="http://WP-Client.com">WEBSITE &gt;&gt; WP-Client.com</a></p>
-<h3 style="margin-bottom:10px;">WP-Client PRO :: Demo Video</h3>
-[youtube https://www.youtube.com/watch?v=lvuLruoQr38]
 <p>One plugin configures multiple areas of your WordPress installation and allows the site Administrator to easily create new Client Areas, Client Management Portals, Client Estimates &amp; Invoices, Client File Upload Areas, or Private Staff Pages on the site by entering just a few data fields and clicking submit. Additionally, clients can upload/download secure files.</p>
 <p>On each domain the plugin is installed, you may have <strong>UNLIMITED Clients and Client Portals</strong></p>
+<p>See a full list of features :: <a href="http://WP-Client.com">WEBSITE &gt;&gt; WP-Client.com</a></p>
+<h3 style="margin-bottom:10px;">WP-Client PRO :: Product Demo Video</h3>
+[youtube https://www.youtube.com/watch?v=lvuLruoQr38]
 <h3 style="margin-bottom:10px;">WP-Client PRO :: Feature Demo Videos</h3>
 [youtube https://www.youtube.com/watch?v=OhVnP58TohY]
 [youtube https://www.youtube.com/watch?v=vrdNREMiI1M]
@@ -53,6 +54,8 @@ When you upgrade to PRO, you will need first to completely delete the WP-Client 
 Please understand that WP-Client is a very flexible & powerful tool. If you are having trouble understanding how to apply it to your application, our Support Team will be happy to help you get a clearer picture of how you can configure the plugin to accomplish your needs.
 
 One result of this extreme flexibility, is that it becomes difficult to provide "step 1-2-3" guides for the plugin, as these steps won't necessarily apply to all of our customers' needs. For every "case" we provide as an example, we will end up leaving out dozens of other scenarios that WP-Client would be perfect for. We hope that the development path we are taking will make the plugin even easier to use going forward.
+
+<a href="https://wp-client.com/support/"><strong>Click HERE for the Support Portal</strong></a>
 
 <h3 style="margin-bottom:10px;">Why WP-Client PRO?</h3>
 <p> </p>
