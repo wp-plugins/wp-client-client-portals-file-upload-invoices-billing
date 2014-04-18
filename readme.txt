@@ -24,6 +24,17 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 [youtube https://www.youtube.com/watch?v=lvuLruoQr38]
 <p>One plugin configures multiple areas of your WordPress installation and allows the site Administrator to easily create new Client Areas, Client Management Portals, Client Estimates &amp; Invoices, Client File Upload Areas, or Private Staff Pages on the site by entering just a few data fields and clicking submit. Additionally, clients can upload/download secure files.</p>
 <p>On each domain the plugin is installed, you may have unlimited Clients and Client Portals</p>
+<h3 style="margin-bottom:10px;">WP-Client PRO :: Feature Demo Videos</h3>
+[youtube https://www.youtube.com/watch?v=OhVnP58TohY]
+[youtube https://www.youtube.com/watch?v=vrdNREMiI1M]
+[youtube https://www.youtube.com/watch?v=4xmo4gbuXGs]
+[youtube https://www.youtube.com/watch?v=cFRkVuogkSQ]
+[youtube https://www.youtube.com/watch?v=1hzm5RQ38so]
+[youtube https://www.youtube.com/watch?v=jJ2edGZRC4s]
+[youtube https://www.youtube.com/watch?v=5yahbLSzKcM]
+[youtube https://www.youtube.com/watch?v=y-m7LRoZqTs]
+
+For complete set of videos & screenshots, <a href="http://wp-client.com">Visit WP-Client.com</a>
 
 == Installation ==
 
