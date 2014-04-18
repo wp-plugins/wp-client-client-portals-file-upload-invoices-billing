@@ -149,6 +149,8 @@ This section describes how to install the LITE version of the plugin and get it 
 
 Please understand that WP-Client is a very flexible & powerful tool. If you are having trouble understanding how to apply it to your application, our Support Team will be happy to help you get a clearer picture of how you can configure the plugin to accomplish your needs.
 
+<strong><a href="https://wp-client.com/testimonials/">REVIEWS: Read the comments about our Support Team</a></strong>
+
 One result of this extreme flexibility, is that it becomes difficult to provide "step 1-2-3" guides for the plugin, as these steps won't necessarily apply to all of our customers' needs. For every "case" we provide as an example, we will end up leaving out dozens of other scenarios that WP-Client would be perfect for. We hope that the development path we are taking will make the plugin even easier to use going forward.
 
 <a href="https://wp-client.com/support/"><strong>Click HERE for the Support Portal</strong></a>
