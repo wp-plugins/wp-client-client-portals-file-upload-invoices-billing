@@ -5,7 +5,7 @@ Author URI: https://wp-client.com
 Plugin URI: https://wp-client.com
 Tags: client portal, file download, file upload, invoices, estimates, billing, private login, client login, customer, patient, student, portal, employee, project management, crm, customer relations management, client area, file sharing, recurring billing, private portal, secure login
 Requires at least: 3.0.1
-Tested up to: 3.8
+Tested up to: 3.9
 Stable Tag: 0.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,7 +15,8 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 == Description ==
 
 <h3 style="margin-bottom:10px;"><a href="https://wp-client.com">WP-Client PRO :: WordPress Web Portal Plugin</a></h3>
-<p>Visit Website :: <a href="http://wp-client.com">WP-Client.com</a> is the home of WP-Client PRO, the <strong>#1 WordPress plugin for Business</strong>. PRO is a premium, fully featured, fully supported Web Portal plugin for WordPress that is under active development & expansion.</p>
+<p><strong>UNLIMITED Clients and Client Portals</strong> on each URL the plugin is installed</p>
+<p><a href="http://wp-client.com">Visit Website :: WP-Client.com</a> :: The home of WP-Client PRO, the <strong>#1 WordPress plugin for Business</strong>. PRO is a premium, fully featured, fully supported Web Portal plugin for WordPress that is under active development & expansion. LIFETIME Support & Updates available.</p>
 <strong><a href="https://wp-client.com/testimonials/">REVIEWS: Read the Reviews from Happy Customers :: NO B.S.</a></strong>
 <h3 style="margin-bottom:10px;">What is WP-Client Lite?</h3>
 <p>WP-Client Lite is designed to give just an introduction to the very basic components of a Client Portal, but there are many features in the PRO version that are not included in the Lite version.</p>
@@ -24,7 +25,6 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 <p>Our Dev Team is focused on developing and supporting PRO, and you are encouraged to upgrade <strong>RISK FREE</strong> if you really want to evaluate the plugin :: <a href="https://wp-client.com/our-100-percent-money-back-guarantee/">Click HERE to see details of our 100% Money Back Guarantee</a></p>
 <p>WP-Client PRO is in constant development and is fully supported. New features are added weekly, and your suggestions are welcome.</p>
 <p>One plugin configures multiple areas of your WordPress installation and allows the site Administrator to easily create new Client Areas, Client Management Portals, Client Estimates &amp; Invoices, Client File Upload Areas, or Private Staff Pages on the site by entering just a few data fields and clicking submit. Additionally, clients can upload/download secure files.</p>
-<p>On each domain the plugin is installed, you may have <strong>UNLIMITED Clients and Client Portals</strong></p>
 <p>See a full list of features :: <a href="http://WP-Client.com">WEBSITE &gt;&gt; WP-Client.com</a></p>
 <h3 style="margin-bottom:10px;">WP-Client PRO :: Product Demo Video</h3>
 [youtube https://www.youtube.com/watch?v=lvuLruoQr38]
