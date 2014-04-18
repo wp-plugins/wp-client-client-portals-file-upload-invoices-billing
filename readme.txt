@@ -1,7 +1,9 @@
 === Plugin Name ===
 Contributors: wp-client
-Donate link: http://wp-client.com
-Tags: client portal, file download, file upload, invoices, estimates, billing.|
+Donate link: https://wp-client.com
+Author URI: https://wp-client.com
+Plugin URI: https://wp-client.com
+Tags: client portal, file download, file upload, invoices, estimates, billing, private login, client login, customer, patient, student, portal, employee, project management, crm, customer relations management, client area, file sharing, recurring billing, private portal, secure login
 Requires at least: 3.0.1
 Tested up to: 3.8
 Stable Tag: 0.0.6
@@ -13,13 +15,13 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 == Description ==
 
 <h3 style="margin-bottom:10px;"><a href="https://wp-client.com">WP-Client PRO :: WordPress Web Portal Plugin</a></h3>
-<p>Visit Website :: <a href="http://wp-client.com">WP-Client.com</a> is the home of WP-Client Pro, the <strong>#1 WordPress plugin for Business</strong>. PRO is a premium, fully featured, fully supported Web Portal plugin for WordPress that is under active development & expansion.</p>
+<p>Visit Website :: <a href="http://wp-client.com">WP-Client.com</a> is the home of WP-Client PRO, the <strong>#1 WordPress plugin for Business</strong>. PRO is a premium, fully featured, fully supported Web Portal plugin for WordPress that is under active development & expansion.</p>
 <h3 style="margin-bottom:10px;">What is WP-Client Lite?</h3>
-<p>WP-Client Lite is designed to give just an introduction to the very basic components of a Client Portal, but there are many features in the Pro version that are not included in the Lite version.</p>
-<p>WP-Client Lite is not meant to be a fully featured Client Portal, but rather a glimpse into what is included and possible in the WP-Client Pro version.</p>
+<p>WP-Client Lite is designed to give just an introduction to the very basic components of a Client Portal, but there are many features in the PRO version that are not included in the Lite version.</p>
+<p>WP-Client Lite is not meant to be a fully featured Client Portal, but rather a glimpse into what is included and possible in the WP-Client PRO version.</p>
 <h3 style="margin-bottom:10px;">GO PRO :: RISK FREE :: 100% Guarantee</h3>
 <p>Our Dev Team is focused on developing and supporting PRO, and you are encouraged to upgrade <strong>RISK FREE</strong> if you really want to evaluate the plugin :: <a href="https://wp-client.com/our-100-percent-money-back-guarantee/">Click HERE to see details of our 100% Money Back Guarantee</a></p>
-<p>WP-Client Pro is in constant development and is fully supported. New features are added weekly, and your suggestions are welcome.</p>
+<p>WP-Client PRO is in constant development and is fully supported. New features are added weekly, and your suggestions are welcome.</p>
 <p>One plugin configures multiple areas of your WordPress installation and allows the site Administrator to easily create new Client Areas, Client Management Portals, Client Estimates &amp; Invoices, Client File Upload Areas, or Private Staff Pages on the site by entering just a few data fields and clicking submit. Additionally, clients can upload/download secure files.</p>
 <p>On each domain the plugin is installed, you may have <strong>UNLIMITED Clients and Client Portals</strong></p>
 <p>See a full list of features :: <a href="http://WP-Client.com">WEBSITE &gt;&gt; WP-Client.com</a></p>
@@ -36,6 +38,19 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 [youtube https://www.youtube.com/watch?v=y-m7LRoZqTs]
 
 For complete set of videos & screenshots, <a href="https://wp-client.com">Visit WP-Client.com</a>
+
+<h3 style="margin-bottom:10px;">WP-Client PRO :: Available Extensions</h3>
+<p>Extend the functionality of the core WP-Client PRO plugin using one of the many extensions available. MORE Coming all the time!</p>
+<ul>
+<li><strong>Project Management</strong> (Premium Extension :: Coming Soon) - Designed to let you organize your work, coordinate easily with your internal teams, track the time spent on specific tasks/projects/sectors, and even integrate your clients into the process.</li>
+<li><strong>White Label</strong> (Included with White Label License) - The PRO version of WP-Client gives you the ability to completely customize the front-end interface that users will see. The White Label Extension takes this one step further, and gives you the capability to customize the backend interface of the plugin also. Change the name of the plugin, add your company’s graphics, website, etc… Lets you brand the plugin like it was yours so that you can resell it as part of website development work.</li>
+<li><strong>Invoicing & Estimates</strong> (Included in all PRO License Levels) - Easily create estimates and invoices that your clients can pay online using the provided payment gateways. You can display invoices on your website, send in PDF format via email, or print out and send in traditional snail mail.</li>
+<li><strong>Feedback Wizard</strong> (Included in all PRO License Levels) - The Project Feedback Wizard is essentially a unique, professional, secure & efficient method whereby the administrator of the site can bundle together a specific set of images, documents, files or links - and effectively present to a client a simple and easy to follow process that allows them to provide formalized and focused feedback.</li>
+<li><strong>Paid Registration</strong> (Included in all PRO License Levels) - Configure the self registration system to only give clients access after they have paid using one of the provided payment gateways.</li>
+<li><strong>Time Limited Clients/Members</strong> (Included in all PRO License Levels) - Easily set an expiration date for each individual client after which that clients login will no longer allow access. Their credentials are still in place, but they receive a customizable error notification explaining that their login has expired.</li>
+<li><strong>Login Logs</strong> (Included in all PRO License Levels) - When users log into your site, the details are retained in the the database, and a report is generated so you can see a complete record of who has logged into the site.</li>
+<li><strong>Private Post Types</strong> (Included in all PRO License Levels) - Allows you to make any page, post or custom post type part of your Portal. You can easily assign permissions, restrict public viewing, and include links to these resources in your Client's HUBs and Portal Pages.</li>
+</ul>
 
 == Installation ==
 
