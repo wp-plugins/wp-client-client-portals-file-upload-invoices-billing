@@ -73,6 +73,34 @@ http://wp-client.com/faqs/
 
 == Screenshots ==
 
+1. Full features available in PRO
+2. Full features available in PRO
+3. Full features available in PRO
+4. Full features available in PRO
+5. Full features available in PRO
+6. Full features available in PRO
+7. Full features available in PRO
+8. Full features available in PRO
+9. Full features available in PRO
+10. Full features available in PRO
+11. Full features available in PRO
+12. Full features available in PRO
+13. Full features available in PRO
+14. Full features available in PRO
+15. Full features available in PRO
+16. Full features available in PRO
+17. Full features available in PRO
+18. Full features available in PRO
+19. Full features available in PRO
+20. Full features available in PRO
+21. Full features available in PRO
+22. Full features available in PRO
+23. Full features available in PRO
+24. Full features available in PRO
+25. Full features available in PRO
+26. Full features available in PRO
+
+
 == Changelog ==
 = Version 1.0.5 =
 * Stable LITE version
