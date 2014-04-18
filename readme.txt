@@ -14,6 +14,7 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 
 == Description ==
 
+<span style="text-align: justify;">
 <h3 style="margin-bottom:10px;"><a href="https://wp-client.com">WP-Client PRO :: WordPress Web Portal Plugin</a></h3>
 <p>Visit Website :: <a href="http://wp-client.com">WP-Client.com</a> is the home of WP-Client PRO, the <strong>#1 WordPress plugin for Business</strong>. PRO is a premium, fully featured, fully supported Web Portal plugin for WordPress that is under active development & expansion.</p>
 <h3 style="margin-bottom:10px;">What is WP-Client Lite?</h3>
@@ -43,7 +44,7 @@ For complete set of videos & screenshots, <a href="https://wp-client.com">Visit 
 <p>Extend the functionality of the core WP-Client PRO plugin using one of the many extensions available. MORE Coming all the time!</p>
 <ul>
 <li><strong>Project Management</strong> (Premium Extension :: Coming Soon) - Designed to let you organize your work, coordinate easily with your internal teams, track the time spent on specific tasks/projects/sectors, and even integrate your clients into the process.</li>
-<li><strong>White Label</strong> (Included with White Label License) - The PRO version of WP-Client gives you the ability to completely customize the front-end interface that users will see. The White Label Extension takes this one step further, and gives you the capability to customize the backend interface of the plugin also. Change the name of the plugin, add your company’s graphics, website, etc… Lets you brand the plugin like it was yours so that you can resell it as part of website development work.</li>
+<li><strong>White Label</strong> (Included with White Label License) - The PRO version of WP-Client gives you the ability to completely customize the front-end interface that users will see. The White Label Extension takes this one step further, and gives you the capability to customize the backend interface of the plugin also. Change the name of the plugin, add your company's graphics, website, etc... Lets you brand the plugin like it was yours so that you can resell it as part of website development work.</li>
 <li><strong>Invoicing & Estimates</strong> (Included in all PRO License Levels) - Easily create estimates and invoices that your clients can pay online using the provided payment gateways. You can display invoices on your website, send in PDF format via email, or print out and send in traditional snail mail.</li>
 <li><strong>Feedback Wizard</strong> (Included in all PRO License Levels) - The Project Feedback Wizard is essentially a unique, professional, secure & efficient method whereby the administrator of the site can bundle together a specific set of images, documents, files or links - and effectively present to a client a simple and easy to follow process that allows them to provide formalized and focused feedback.</li>
 <li><strong>Paid Registration</strong> (Included in all PRO License Levels) - Configure the self registration system to only give clients access after they have paid using one of the provided payment gateways.</li>
@@ -51,6 +52,7 @@ For complete set of videos & screenshots, <a href="https://wp-client.com">Visit 
 <li><strong>Login Logs</strong> (Included in all PRO License Levels) - When users log into your site, the details are retained in the the database, and a report is generated so you can see a complete record of who has logged into the site.</li>
 <li><strong>Private Post Types</strong> (Included in all PRO License Levels) - Allows you to make any page, post or custom post type part of your Portal. You can easily assign permissions, restrict public viewing, and include links to these resources in your Client's HUBs and Portal Pages.</li>
 </ul>
+</span>
 
 == Installation ==
 
@@ -71,6 +73,8 @@ Please understand that WP-Client is a very flexible & powerful tool. If you are 
 One result of this extreme flexibility, is that it becomes difficult to provide "step 1-2-3" guides for the plugin, as these steps won't necessarily apply to all of our customers' needs. For every "case" we provide as an example, we will end up leaving out dozens of other scenarios that WP-Client would be perfect for. We hope that the development path we are taking will make the plugin even easier to use going forward.
 
 <a href="https://wp-client.com/support/"><strong>Click HERE for the Support Portal</strong></a>
+
+<hr />
 
 <h3 style="margin-bottom:10px;">Why WP-Client PRO?</h3>
 <p> </p>
