@@ -44,41 +44,41 @@ Please understand that WP-Client is a very flexible & powerful tool. If you are 
 
 One result of this extreme flexibility, is that it becomes difficult to provide "step 1-2-3" guides for the plugin, as these steps won't necessarily apply to all of our customers' needs. For every "case" we provide as an example, we will end up leaving out dozens of other scenarios that WP-Client would be perfect for. We hope that the development path we are taking will make the plugin even easier to use going forward.
 
-<h3>Why WP-Client PRO?</h3>
+<h3>Why WP-Client PRO?</h3><br />
 
 <h4>What do you call them?</h4>
 
-Clients? Members? Or do you needs involve Customers, Employees, Collaborators, Students, Patients, Agents, Reps, Vendors, Affiliates, etc… ?
+Clients? Members? Or do you needs involve Customers, Employees, Collaborators, Students, Patients, Agents, Reps, Vendors, Affiliates, etc...?
 
 You can use WP-Client to create Client Portals, Membership Sites, File Sharing Portals, Employee Portals, Student Portals, Patient Portals, Customer Areas, Agent Portals, Vendor Info Portals, Affiliate Portals and much, much more.
 
-<h3>Top Five Reasons to own WP-Client PRO</h3>
+<h3>Top Five Reasons to own WP-Client PRO</h3><br />
 
-<h4>Reason #1: Extreme Flexibility, Solid Security, and Raw, Unadulterated POWER</h4>
+<h4>Reason #1: Extreme Flexibility, Solid Security, and Raw, Unadulterated POWER</h4><br />
 
 No matter what your organization or business requires, WP-Client has the power and flexibility to deliver a wide range of web portal functionalities to serve your needs.
 Dozens of features designed to fit a wide range of needs. From the extremely simple to the extremely complex, our features are designed to accommodate your requirements. See Complete List of Features
 
-<h4>Reason #2: Experienced Team of Developers</h4>
+<h4>Reason #2: Experienced Team of Developers</h4><br />
 
 WP-Client is happily providing Web Portal and Membership Site functionality to thousands of organizations in dozens of countries around the world.
 Development direction is driven by customers just like you. Your suggestions matter and if your ideas are echoed by the community, they often end up in the next version.
 Our team is actively developing WP-Client and making major improvements all the time. Your investment now will pay future dividends with added features and functionalities.
 
-<h4>Reason #3: Extensive Documentation & Responsive Support Team</h4>
+<h4>Reason #3: Extensive Documentation & Responsive Support Team</h4><br />
 
-Documentation is provided right inside the WP-Client Dashboard so you can never lose it. And, it's updated all the time so you never have to worry about having “old” documentation.
+Documentation is provided right inside the WP-Client Dashboard so you can never lose it. And, it's updated all the time so you never have to worry about having "old” documentation.
 We have an experienced team of helpful and courteous support staff who's number one goal is to make sure you are taken care of. If you have a problem, then we're here to help.
 
-<h4>Reason #4: Authentic Testimonials from Real Customers. No B.S.</h4>
+<h4>Reason #4: Authentic Testimonials from Real Customers. No B.S.</h4><br />
 
-We are proud to say that our customers are excited to tell us how happy they are. This makes us happy, but we are still always pushing to do things better all the time
-“Remarkable. All is working. I'm amazed at how fast you guys are in responding and the thoroughness of the help instructions. Great job. And thanks a million for making such an awesome plugin. This was exactly what I was looking for and you've even added invoicing to it.” – Jeffrey
-“I've been looking for this exact functionality for so long, finally came across your plugin, and what a pleasant surprise! Really love the whole concept behind the plugin, and how it makes everything so flexible. Use of shortcodes is clever and makes integration a snap. ” – Sherri
-“You guys have the most well documented and best executed plug-in that I have ever had the privilege to use.” - Howard
-“I bought 2 copies of this [plugin] and I'm very impressed! I'm a professional photographer and visual designer, and I use this plug in for my studio and for clients than need a professional solution for show the pictures to clients. Thank you WP-Client! I'm really really happy! Great product!” – Manu
+We are proud to say that our customers are excited to tell us how happy they are. This makes us happy, but we are still always pushing to do things better all the time<br />
+"Remarkable. All is working. I'm amazed at how fast you guys are in responding and the thoroughness of the help instructions. Great job. And thanks a million for making such an awesome plugin. This was exactly what I was looking for and you've even added invoicing to it.” – Jeffrey<br />
+"I've been looking for this exact functionality for so long, finally came across your plugin, and what a pleasant surprise! Really love the whole concept behind the plugin, and how it makes everything so flexible. Use of shortcodes is clever and makes integration a snap. ” – Sherri<br />
+"You guys have the most well documented and best executed plug-in that I have ever had the privilege to use.” - Howard<br />
+"I bought 2 copies of this [plugin] and I'm very impressed! I'm a professional photographer and visual designer, and I use this plug in for my studio and for clients than need a professional solution for show the pictures to clients. Thank you WP-Client! I'm really really happy! Great product!” – Manu<br />
 
-<h4>Reason #5: No Risk 100% Money Back Guarantee</h4>
+<h4>Reason #5: No Risk 100% Money Back Guarantee</h4><br />
 
 We consider our 100% Money Back Guarantee a valuable tool for gathering real world feedback from real world users. It doesn't happen often, but if WP-Client doesn't fit your needs, then you have nothing to worry about. See Details
 
