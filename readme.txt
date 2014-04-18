@@ -14,11 +14,11 @@ WP-Client Client Management & Billing Plugin that gives you the ultimate in flex
 
 == Description ==
 
-<h3 style="margin-bottom:10px;"><a href="https://wp-client.com">WP-Client PRO :: WordPress Web Portal Plugin</a></h3>
+<h3>WP-Client PRO :: WordPress Web Portal Plugin</h3>
 <p><strong>UNLIMITED Clients and Client Portals</strong> on each URL the plugin is installed</p>
 <p><a href="http://wp-client.com">Visit Website :: WP-Client.com</a> :: The home of WP-Client PRO, the <strong>#1 WordPress plugin for Business</strong>. PRO is a premium, fully featured, fully supported Web Portal plugin for WordPress that is under active development & expansion. LIFETIME Support & Updates available.</p>
 <strong><a href="https://wp-client.com/testimonials/">REVIEWS: Read the Reviews from Happy Customers :: NO B.S.</a></strong>
-<h3 style="margin-bottom:10px;">What is WP-Client Lite?</h3>
+<h3 style="margin-bottom:10px;">IMPORTANT :: What is WP-Client Lite?</h3>
 <p>WP-Client Lite is designed to give just an introduction to the very basic components of a Client Portal, but there are many features in the PRO version that are not included in the Lite version.</p>
 <p>WP-Client Lite is not meant to be a fully featured Client Portal, but rather a glimpse into what is included and possible in the WP-Client PRO version.</p>
 <h3 style="margin-bottom:10px;">GO PRO :: RISK FREE :: 100% Guarantee</h3>
