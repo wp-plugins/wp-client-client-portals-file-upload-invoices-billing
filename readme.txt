@@ -219,7 +219,7 @@ Simply submit a support ticket requesting a refund
 
 <h3 style="margin-bottom:10px;">Please see this page for a complete set of FAQs</h3>
 
-http://wp-client.com/faqs/
+https://wp-client.com/faqs/
 
 == Screenshots ==
 
