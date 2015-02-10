@@ -3,7 +3,7 @@ Contributors: wp-client
 Donate link: https://wp-client.com
 Author URI: https://wp-client.com
 Plugin URI: https://wp-client.com
-Tags: unsupported
+Tags: Unsupported
 Requires at least: 3.0.1
 Tested up to: 3.9
 Stable Tag: 0.0.6
@@ -14,7 +14,7 @@ Due to a major redesign & architecture change, this Lite version is no longer su
 
 == Description ==
 
-<h3>Due to a major redesign & architecture change, this Lite version is no longer supported or updated</h3>
+<p><a href="http://wp-client.com">Visit PRO Version Website :: WP-Client.com</a> :: The home of WP-Client PRO, the <strong>#1 WordPress plugin for Business</strong>. PRO is a premium, fully featured, fully supported Web Portal plugin for WordPress that is under active development & expansion. LIFETIME Support & Updates available.</p>
 
 == Installation ==
 
@@ -25,9 +25,6 @@ Due to a major redesign & architecture change, this Lite version is no longer su
 Due to a major redesign & architecture change, this Lite version is no longer supported or updated
 
 == Screenshots ==
-
-1. Due to a major redesign & architecture change, this Lite version is no longer supported or updated
-
 
 == Changelog ==
 = Version 1.0.5 =
