@@ -10,12 +10,11 @@ Stable Tag: 0.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WP-Client Client Management & Billing Plugin that gives you the ultimate in flexibility to integrate into your current site.
+Due to a major redesign & architecture change, this Lite version is no longer supported or updated
 
 == Description ==
 
 <h3>WP-Client PRO :: WordPress Web Portal Plugin</h3>
-<p><strong>UNLIMITED Clients and Client Portals</strong> on each URL the plugin is installed</p>
 <p><a href="http://wp-client.com">Visit Website :: WP-Client.com</a> :: The home of WP-Client PRO, the <strong>#1 WordPress plugin for Business</strong>. PRO is a premium, fully featured, fully supported Web Portal plugin for WordPress that is under active development & expansion. LIFETIME Support & Updates available.</p>
 <strong><a href="https://wp-client.com/testimonials/">REVIEWS: Read the Reviews from Happy Customers :: NO B.S.</a></strong>
 <h3 style="margin-bottom:10px;">IMPORTANT :: What is WP-Client Lite?</h3>
